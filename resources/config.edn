@@ -1,0 +1,8 @@
+{
+ :fuse-bootplugin-dir "platform-core"
+ :boot-plugin-repo    "https://github.com/fuse-code/platform-core.git"
+
+ :git-credentials {:add-your-credentials "Please add your Git credentials here and then remove this line!"
+                   :name "~/.ssh/id_rsa"
+                   :exclusive true}
+ }

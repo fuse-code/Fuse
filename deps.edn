@@ -1,0 +1,4 @@
+{:paths ["src-clj" "test-clj"]
+
+ :deps
+ {coconutpalm/clj-jgit {:github/tag "6.0.0.202111291000-r" :git/sha ""}}}
